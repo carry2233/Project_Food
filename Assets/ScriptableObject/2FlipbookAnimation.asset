@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c92f34305e8a0ac479b108067189a405, type: 3}
+  m_Name: 2FlipbookAnimation
+  m_EditorClassIdentifier: Assembly-CSharp::FlipbookAnimation
+  frames:
+  - sprite: {fileID: 21300000, guid: 675e91f5ad2e4284b9f9a7d03a08c2b6, type: 3}
+    overrideInterval: 0
+    customInterval: 0
+  - sprite: {fileID: 21300000, guid: 2e0e256cc5ac06441a4449d606927c2d, type: 3}
+    overrideInterval: 0
+    customInterval: 0
+  - sprite: {fileID: 21300000, guid: 65f8c813a2dff5b43a285b53f484ad41, type: 3}
+    overrideInterval: 0
+    customInterval: 0
+  - sprite: {fileID: 21300000, guid: f1eed4a45473cae4daeb03d771719fad, type: 3}
+    overrideInterval: 0
+    customInterval: 0
+  - sprite: {fileID: 21300000, guid: a8cf46863cf816d48bd1518375508e59, type: 3}
+    overrideInterval: 0
+    customInterval: 0
